@@ -30,3 +30,6 @@ CMP C, 0
 JNE -3
 STOP
 ```
+
+###Execute Example
+mvn clean package exec:java
