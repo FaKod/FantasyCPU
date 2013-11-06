@@ -1,4 +1,4 @@
-Fanstasy CPU
+Fantasy CPU
 ------------
 
 ###Memory And Registers
